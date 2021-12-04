@@ -6,7 +6,7 @@ build/
 
 # 예전 버전 exe 파일들
 youtube-dl_oldVersion/
-
+Youtube-dl_GUI_Helper_*.exe
 
 # python 기능 테스트 코드
 **/test.py
