@@ -5,12 +5,22 @@
 
 ffmpeg 프로그램과 youtube-dl 프로그램이 있어야 사용 가능하며 다운로드는 다음 링크에서 받을 수 있습니다.
 
-- [youtube-dl Download](http://ytdl-org.github.io/youtube-dl/download.html)
+- ~~[youtube-dl Download](http://ytdl-org.github.io/youtube-dl/download.html)~~ (업데이트 종료로 미사용)
+- [yt-dlp Download](https://github.com/yt-dlp/yt-dlp/releases/)
 - [ffmpeg Download](https://ffmpeg.org/download.html)
 
 ## program preview
 
 <img src="https://user-images.githubusercontent.com/49092390/126894929-73481415-10b5-441e-a775-72396192a90c.png" width="600" height="378">
+
+### 2023-3-20 업데이트
+1. youtube-dl -> yt-dlp로 사용 프로그램 변경  
+   youtube-dl 프로그램이 21년부터 지원 종료되어 사용하는 프로그램을 변경했습니다.  
+   영상이 다운로드 되지 않는 버그가 고쳐졌습니다.
+   yt-dlp 찬양해~
+
+2. 소스코드 리펙토링을 진행했습니다.  
+   옛날에 쓴 코드 컨벤션 실화냐.
 
 ### 2021-12-04 업데이트
 

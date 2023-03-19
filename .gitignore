@@ -3,6 +3,7 @@ __pycache__/
 build/
 *.mp3
 *.mp4
+*.webm
 
 # 예전 버전 exe 파일들
 youtube-dl_oldVersion/
